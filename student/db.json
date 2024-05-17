@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "id": "4",
+      "rollno": "1217",
+      "name": "Dean",
+      "marks": 98,
+      "branch": "CSE"
+    },
+    {
+      "id": "2",
+      "rollno": "1416",
+      "name": "Bobby",
+      "marks": 58,
+      "branch": "CSE"
+    },
+    {
+      "id": "3",
+      "rollno": "1745",
+      "name": "Jack",
+      "marks": 90,
+      "branch": "IT"
+    },
+    {
+      "id": "595",
+      "rollno": "1294",
+      "name": "Slim",
+      "marks": "12",
+      "branch": "EEE"
+    },
+    {
+      "id": "426",
+      "rollno": "2345",
+      "name": "Shady",
+      "marks": "76",
+      "branch": "ECE"
+    },
+    {
+      "id": "16",
+      "rollno": "1234",
+      "name": "MM",
+      "marks": "978",
+      "branch": "EEE"
+    }
+  ]
+}
